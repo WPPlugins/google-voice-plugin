@@ -1,0 +1,33 @@
+#gvwidgetlogo
+{
+    background: transparent url(../images/icon.png) no-repeat scroll 0 0;
+    height: 64px;
+    margin-top:15px;
+    padding-left: 72px;
+}
+
+#gvwidgetlogo .gvwidgettitle
+{
+    border-bottom: 1px solid #DADADA;
+    color: #696969;
+    font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif;
+    font-size: 30px;
+    font-style: italic;
+    padding: 0 0 13px;
+}
+
+div.gvwidgettitle span
+{
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: 5px;
+    vertical-align: 14px;
+}
+
+#gvwidgetlogo h3
+{
+    font-style: italic;
+    font-weight: normal;
+    margin: 3px 0 0;
+}
